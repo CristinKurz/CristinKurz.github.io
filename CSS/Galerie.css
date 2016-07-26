@@ -1,0 +1,46 @@
+@import "stylesheet.css";
+
+header{
+position: fixed;
+top:0;
+left:0;
+}
+
+.slideshow{
+  display: inline-block;
+  width: 75%;
+  margin-left:25%;
+}
+
+.slideshow div{
+  display:inline-block;
+  float: left;
+}
+
+.bild1{
+  width: 50%;
+}
+.bild2{
+  width: 50%;
+}
+.bild3{
+  width: 100%;
+}
+.bild4{
+  width: 100%;
+}
+.bild5{
+  width: 50%;
+}
+.bild6{
+  width: 50%;
+}
+.bild7{
+  width: 100%;
+}
+.bild8{
+  width: 50%;
+}
+.bild9{
+  width: 50%;
+}

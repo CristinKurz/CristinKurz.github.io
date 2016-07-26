@@ -1,0 +1,12 @@
+@import "stylesheet.css";
+
+.content{
+  width: 55%;
+  padding: 0;
+}
+
+.lebenslauf{
+  width: 20%;
+  height: 100%;
+  padding:2%;
+}
